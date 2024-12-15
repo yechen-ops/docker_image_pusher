@@ -1,2 +1,2 @@
---platform=linux/arm64 arm64v8/mysql:8.0.35
---platform=linux/arm64 arm64v8/mysql
+mysql:8.0.35
+redis
