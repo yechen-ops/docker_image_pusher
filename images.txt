@@ -1,2 +1,1 @@
-mysql:8.0.35
-redis
+--platform=linux/arm64 arm64v8/nginx
