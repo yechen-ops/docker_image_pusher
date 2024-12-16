@@ -1,1 +1,1 @@
-bitnami/redis
+openjdk:17
