@@ -1,1 +1,1 @@
-snowdreamtech/frps
+nacos/nacos-server
