@@ -1,1 +1,2 @@
-nacos/nacos-server
+arm64v8/mysql:8.0.30
+arm64v8/redis:7.4.1
