@@ -1,2 +1,2 @@
-arm64v8/mysql:8.0.30
-arm64v8/redis:7.4.1
+arm64v8/elasticsearch:8.17.2
+arm64v8/kibana:8.17.2
