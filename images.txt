@@ -1,2 +1,2 @@
-kibana
-elasticsearch
+--platform=linux/arm64 kibana:8.17.3
+--platform=linux/arm64 elasticsearch:8.17.3
