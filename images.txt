@@ -1,1 +1,1 @@
-wdkang/kafka-console-ui
+xuxueli/xxl-job-admin
